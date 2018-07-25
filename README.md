@@ -9,6 +9,7 @@
 |Sex|Man|
 |Location|埼玉県|
 |Education|宇都宮大学教育学部卒|
+|Job|フリーのソフトウェアエンジニア|
 |GitHub|https://github.com/sky0621/|
 |Qiita|https://qiita.com/sky0621|
 
@@ -22,41 +23,72 @@
 
 工程としては、要件定義からリリース、保守・運用まで経験済み（※設計・実装・テスト工程を担当することが多い）
 
-その後、Androidアプリ（v2.3の頃）開発、PHPでのWebアプリ開発に2年ほど関わり、
+その後、Androidアプリ（v2.3の頃）開発、PHP（v5）でのWebアプリ開発に2年ほど関わる。
 
 また、Javaで「教育」系Webシステム開発時に１年ほどScrumを経験。
 
-直近、２年はGolangでPubSubメッセージングシステム開発に着手。（AWS及びGCPを経験）
+直近、２年弱はGolangでPubSubメッセージングシステム開発に着手。（AWS及びGCPを経験）
+
+## 就労状況（2018/8月時点）
+
+就労中。正社員として転職の意思は無し。
+
+## 就労条件
+
+- EdTechの案件だとベスト。
+- Scrum開発を行っているとベター。
+
+## 理想とする現場の風土
+
+- 新しい技術にチャレンジする。
+- 負債と向き合い、改善を求める。
 
 ## スキル
 
-### 言語
+### プログラミング言語
 
-- プログラミング言語
-
-FIXME
+- Java（v1.4～v7）を10年以上。
+- PHP（v5）を2年ほど。
+- Golang（v1.7、v1.9）を2年弱。
+- JavaScriptはJavaやPHPの開発で並行して扱うもののjQueryレベル止まり。
+- その他、C++、Python2、等を数ヶ月ずつ。
 
 ### フレームワーク
 
-- Framework名
+- Java：Struts、Seasar2
+- PHP：Kohana
+- Golang：Echo
 
-FIXME
+### データベース
+
+- SQL：O/Rマッパー無し案件やバッチ機能を担当することも多いため、ある程度パフォーマンス意識したレベルで書ける。
+- 設計：それなりと思っているものの、客観的に示せる情報なし。
+- 経験DB：MySQL、Oracleが多く、それぞれ5年以上。その他、PostgreSQL、DB2、SQLServer等。
+
+### OS
+
+- Windows：人並み。
+- Mac：半年ほど開発に用いるものの、まだ慣れず。
+- Linux：Golang案件では、開発端末にも用いる。エディタはVi派。極力、コマンド使う派。
+
+### クラウド
+
+- AWS：1年半でEC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等に触れる。
+- GCP：半年でGKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、GCR等に触れる。
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
-
-FIXME
-
-## 強み
-
-FIXME
+- Scrum開発を１年弱（最初のチームビルディングから参加）。
+- MicroService（サービス間をREST/gRPCで接続）を意識した開発を２年弱。
+- Dockerに半年、Kubernetesには数ヶ月ほど触れる。
 
 ## やったことはないが興味があるもの
 
-FIXME
+- 機械学習
 
 ## 職務経歴
+
+以下、FIXME
 
 ### yyyy/mm - : 会社名
 
