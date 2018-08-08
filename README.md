@@ -13,6 +13,7 @@
 |Contact|sky14ghcv@gmail.com|
 |GitHub|https://github.com/sky0621/|
 |Qiita|https://qiita.com/sky0621|
+|Keyword|Golang, Java, GCP, AWS, MicroService, Scrum, EdTech|
 
 ## サマリ
 
