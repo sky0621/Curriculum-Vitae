@@ -14,6 +14,7 @@
 |GitHub|https://github.com/sky0621/|
 |Qiita|https://qiita.com/sky0621|
 |Keyword|Golang, Java, GCP, AWS, MicroService, Scrum, EdTech|
+|Qualification|[GOOGLE CLOUD CERTIFIED<br>Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer?hl=ja)|
 
 ## サマリ
 
@@ -25,13 +26,13 @@
 
 工程としては、要件定義からリリース、保守・運用まで経験済み（※設計・実装・テスト工程を担当することが多い）
 
-その後、Androidアプリ（v2.3の頃）開発、PHP（v5）でのWebアプリ開発に2年ほど関わる。
+その後、Androidアプリ（v2.3及びv4の頃）開発、PHP（v5）でのWebアプリ開発に2年ほど関わる。
 
 また、Javaで「教育」系Webシステム開発時に１年ほどScrumを経験。
 
 直近、２年弱はGolangでPubSubメッセージングシステム開発に着手。（AWS及びGCPを経験）
 
-## 就労状況（2018/8月時点）
+## 就労状況（2018/11月時点）
 
 就労中。正社員として転職の意思は無し。
 
@@ -46,7 +47,7 @@
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2018/9月時点）
+## 家庭学習の状況（2018/11月時点）
 
 以下、写経、チュートリアル実施中。
 
@@ -56,7 +57,7 @@
 
 ### プログラミング言語
 
-- Java（v1.4～v7）を10年以上。
+- Java（v1.4～v7）を10年以上。 Java(v8)を4ヶ月。
 - PHP（v5）を2年ほど。
 - Golang（v1.7、v1.9）を2年弱。
 - JavaScriptはJavaやPHPの開発で並行して扱うもののjQueryレベル止まり。
@@ -83,7 +84,7 @@
 ### クラウド
 
 - AWS：1年半でEC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等に触れる。
-- GCP：半年でGKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、GCR等に触れる。
+- GCP：1年弱でGAE(Java8)、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Cloud Endpoints、GCR等に触れる。
 
 ### その他
 
@@ -97,6 +98,15 @@
 - IoT
 
 ## 職務経歴
+
+---
+
+## 某Google Cloud Platformパートナー会社にて、２０１８年８月より現在まで就労中
+
+---
+
+- GAE(Java8)、Cloud Endpoints、Cloud Datastore、Big Query構成でWeb APIのエンハンスに従事中。
+- GAE(Go1.11)（その他、構成は未定）構成での案件着手予定。
 
 ---
 
