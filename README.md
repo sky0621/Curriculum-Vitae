@@ -32,7 +32,7 @@
 
 直近、２年弱はGolangでPubSubメッセージングシステム開発に着手。（AWS及びGCPを経験）
 
-## 就労状況（2018/11月時点）
+## 就労状況（2018/12月時点）
 
 就労中。正社員として転職の意思は無し。
 
@@ -59,8 +59,8 @@
 
 - Java（v1.4～v7）を10年以上。 Java(v8)を4ヶ月。
 - PHP（v5）を2年ほど。
-- Golang（v1.7、v1.9）を2年弱。
-- JavaScriptはJavaやPHPの開発で並行して扱うもののjQueryレベル止まり。
+- Golang（v1.7、v1.9）を2年弱。Golang（v1.11）を1ヶ月。
+- JavaScriptはJavaやPHPの開発で並行して扱うもののjQueryレベル止まり。最近、業務でVue.js（Nuxt.js）を触り始める。
 - その他、C++、Python2、等を数ヶ月ずつ。
 
 ### フレームワーク
@@ -105,8 +105,8 @@
 
 ---
 
-- GAE(Java8)、Cloud Endpoints、Cloud Datastore、Big Query構成でWeb APIのエンハンスに従事中。
-- GAE(Go1.11)（その他、構成は未定）構成での案件着手予定。
+- GAE(Java8)、Cloud Endpoints、Cloud Datastore、Big Query構成でWeb APIのエンハンスに４ヶ月従事。
+- GAE(Go1.11)、Cloud SQL、（その他、構成は未定）構成での案件に2018年12月から着手中。
 
 ---
 
