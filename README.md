@@ -78,13 +78,13 @@
 ### OS
 
 - Windows：人並み。
-- Mac：半年ほど開発に用いるものの、まだ慣れず。
+- Mac：過去、半年ほど開発端末として使用。現在参画中の案件でも使用中。
 - Linux：Golang案件では、開発端末にも用いる。エディタはVi派。極力、コマンド使う派。
 
 ### クラウド
 
 - AWS：1年半でEC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等に触れる。
-- GCP：1年弱でGAE(Java8)、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Cloud Endpoints、GCR等に触れる。
+- GCP：1年弱でGAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Cloud Endpoints、GCR等に触れる。
 
 ### その他
 
