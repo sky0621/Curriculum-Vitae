@@ -18,7 +18,7 @@
 
 ## サマリ
 
-主にJavaで構築するWebシステム（BtoBが多め）開発に10年以上関わる。
+主にJavaで構築するWebシステム（BtoBが多め）開発に10年以上関わる。その他、Golangを使ったシステム開発に2年以上。
 
 システムのジャンルは、さまざま。
 
@@ -32,9 +32,13 @@
 
 直近、２年弱はGolangでPubSubメッセージングシステム開発に着手。（AWS及びGCPを経験）
 
-## 就労状況（2018/12月時点）
+その後、現在はGCPに特化したソリューションを提供する現場にて各案件に着手中。
 
-就労中。正社員として転職の意思は無し。
+## 就労状況（2019/02月時点）
+
+就労中。
+正社員として転職の意思は無し。
+フリーとして参画できる案件であれば内容如何で話を聞きたい。
 
 ## 就労条件
 
@@ -47,11 +51,12 @@
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2018/11月時点）
+## 家庭学習の状況（2019/02月時点）
 
 以下、写経、チュートリアル実施中。
 
 - GCPの各種プロダクト
+- Vue.js/Nuxt.js
 
 ## スキル
 
@@ -59,8 +64,8 @@
 
 - Java（v1.4～v7）を10年以上。 Java(v8)を4ヶ月。
 - PHP（v5）を2年ほど。
-- Golang（v1.7、v1.9）を2年弱。Golang（v1.11）を1ヶ月。
-- JavaScriptはJavaやPHPの開発で並行して扱うもののjQueryレベル止まり。最近（2018/12）、業務でVue.js（Nuxt.js）を触り始める。
+- Golang（v1.7、v1.9）を2年弱。Golang（v1.11）を3ヶ月。
+- JavaScriptはJavaやPHPの開発で並行してjQueryを使用。最近（2018/12〜）、業務でVue.js（Nuxt.js）を触り始める。
 - その他、C++、Python2、等を数ヶ月ずつ。
 
 ### フレームワーク
@@ -68,6 +73,7 @@
 - Java：Struts、Seasar2
 - PHP：Kohana
 - Golang：Echo
+- Vue.js：Nuxt.js
 
 ### データベース
 
@@ -84,7 +90,7 @@
 ### クラウド
 
 - AWS：1年半でEC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等に触れる。
-- GCP：1年弱でGAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Cloud Endpoints、GCR等に触れる。
+- GCP：1年弱でGAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR等に触れる。
 
 ### その他
 
@@ -94,7 +100,6 @@
 
 ## やったことはないが興味があるもの
 
-- 機械学習
 - IoT
 
 ## 職務経歴
@@ -106,7 +111,7 @@
 ---
 
 - GAE(Java8)、Cloud Endpoints、Cloud Datastore、Big Query構成でWeb APIのエンハンスに４ヶ月従事。
-- GAE(Go1.11)、Cloud SQL、（その他、構成は未定）構成での案件に2018年12月から着手中。
+- GAE(Go1.11)、Cloud SQL、Cloud Datastore、Cloud Functions(Node.js)、Bigtable構成での案件に2018年12月から着手中。
 
 ---
 
