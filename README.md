@@ -34,7 +34,7 @@
 
 その後、現在はGCPに特化したソリューションを提供する現場にて各案件に着手中。
 
-## 就労状況（2019/02月時点）
+## 就労状況（2019/04月時点）
 
 就労中。
 正社員として転職の意思は無し。
@@ -44,6 +44,7 @@
 
 - EdTechの案件だとベスト。
 - Scrum開発を行っているとベター。
+- 開発言語がGolangないしJava(ver 8以降)だとベター。
 
 ## 理想とする現場
 
@@ -64,7 +65,7 @@
 
 - Java（v1.4～v7）を10年以上。 Java(v8)を4ヶ月。
 - PHP（v5）を2年ほど。
-- Golang（v1.7、v1.9）を2年弱。Golang（v1.11）を3ヶ月。
+- Golang（v1.7、v1.9）を2年弱。Golang（v1.11）を5ヶ月。
 - JavaScriptはJavaやPHPの開発で並行してjQueryを使用。最近（2018/12〜）、業務でVue.js（Nuxt.js）を触り始める。
 - その他、C++、Python2、等を数ヶ月ずつ。
 
@@ -90,7 +91,7 @@
 ### クラウド
 
 - AWS：1年半でEC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等に触れる。
-- GCP：1年弱でGAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR等に触れる。
+- GCP：1年でGAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、FirebaseAuth等に触れる。
 
 ### その他
 
