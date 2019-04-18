@@ -58,6 +58,7 @@
 
 - GCPの各種プロダクト
 - Vue.js/Nuxt.js
+- Kubernetes on GKE
 
 ## スキル
 
