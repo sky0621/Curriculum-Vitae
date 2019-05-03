@@ -34,7 +34,7 @@
 
 その後、現在はGCPに特化したソリューションを提供する現場にて各案件に着手中。
 
-## 就労状況（2019/04月時点）
+## 就労状況（2019/05月時点）
 
 就労中。
 正社員として転職の意思は無し。
@@ -52,7 +52,7 @@
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2019/04月時点）
+## 家庭学習の状況（2019/05月時点）
 
 以下、写経、チュートリアル、検証実装を実施中。
 
@@ -68,8 +68,8 @@
 
 - Java（v1.4～v7）を10年以上。 Java(v8)を4ヶ月。
 - PHP（v5）を2年ほど。
-- Golang（v1.7、v1.9）を2年弱。Golang（v1.11）を5ヶ月。
-- JavaScriptはJavaやPHPの開発で並行してjQueryを使用。最近（2018/12〜）、業務でVue.js（Nuxt.js）を触り始める。
+- Golang（v1.7、v1.9）を2年弱。Golang（v1.11）を6ヶ月。
+- JavaScriptはJavaやPHPの開発で並行してjQueryを使用。2018/12から、業務でVue.js（Nuxt.js）を使用。
 - その他、C++、Python2、等を数ヶ月ずつ。
 
 ### フレームワーク
@@ -93,8 +93,8 @@
 
 ### クラウド
 
-- AWS：1年半でEC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等に触れる。
-- GCP：1年でGAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、FirebaseAuth等に触れる。
+- AWS：1年半（EC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等）
+- GCP：1年（GAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、Cloud Functions(Node.js[TypeScript])、FirebaseAuth）
 
 ### その他
 
