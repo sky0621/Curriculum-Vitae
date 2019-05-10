@@ -10,7 +10,6 @@
 |Location|埼玉県|
 |Education|宇都宮大学教育学部卒|
 |Job|フリーのソフトウェアエンジニア|
-|Contact|sky14ghcv@gmail.com|
 |GitHub|https://github.com/sky0621/|
 |Qiita|https://qiita.com/sky0621|
 |Keyword|Golang, Java, GCP, AWS, MicroService, Scrum, EdTech|
