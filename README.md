@@ -112,8 +112,29 @@
 
 ---
 
-- GAE(Java8)、Cloud Endpoints、Cloud Datastore、Big Query構成でWeb APIのエンハンスに４ヶ月従事。
-- GAE(Go1.11)、Cloud SQL、Cloud Datastore、Cloud Functions(Node.js)、Bigtable構成での案件に2018年12月から着手中。
+### ■ 2018/11(後半) - 2019/05: 防災用IoT機器管理Webシステム構築
+
+|name|content|
+|---|-----|
+|*概要*|防災用のIoT機器に対してWeb上からAPI経由で指示を出したり状態を管理するサービス。|
+|*担当*|Backend(Go)側のプロトタイプ作成。Frontend(Vue/Nuxt.js)各機能の実装<br>- 認証認可<br>- お知らせ機能<br>- 各種バッチ関連<br>etc...|
+|*技術要素*|【Backend】<br>- Go: v1.11<br>- App Engine(Standard)[Go]<br>- Cloud Datastore<br>- Cloud SQL<br>- Bigtable<br>- Cloud Functions(Node.js/TypeScript)<br>- FirebaseAuth<br>【Frontend(SPA)】<br>- Vue.js: v2<br>- Nuxt.js: v2<br>- Vuex<br>- Vuetify<br>- Axios<br>- TypeScript|
+
+### ■ 2018/10 - 2018/11(前半): 購買分析基盤構築
+
+|name|content|
+|---|-----|
+|*概要*|顧客の購買状況・行動を分析するサービス。|
+|*担当*|Backend(Java)の分析APIのベース部分の実装。（期間限定のサポート要員として参画）|
+|*技術要素*|- Java: v1.8<br>- App Engine(Standard)[Java]<br>- Cloud Datastore<br>- BigQuery|
+
+### ■ 2018/08 - 2018/09: 手書き帳票の識字Webシステム構築
+
+|name|content|
+|---|-----|
+|*概要*|手書きの帳票を、あらかじめ登録しておいたテンプレートと突き合わせて（WebAPIを使って）識字分析するサービス。|
+|*担当*|Backend(Java)の機能改修全般。及びテストコードの充実化。|
+|*技術要素*|【Backend】<br>- Java: v1.8<br>- App Engine(Standard)[Java]<br>- Cloud Datastore<br>- BigQuery<br>- Cloud Endpoints<br>- FirebaseAuth<br>【Frontend】<br>- Angular: v6<br>- TypeScript|
 
 ---
 
