@@ -33,7 +33,7 @@
 
 その後、現在はGCPに特化したソリューションを提供する現場にて各案件に着手中。
 
-## 就労状況（2019/05月時点）
+## 就労状況（2019/07月時点）
 
 就労中。
 フリーとして参画できる案件であれば内容如何で話を聞きたい。
@@ -42,7 +42,7 @@
 
 - EdTechの案件だとベスト。
 - Scrum開発を行っているとベター。
-- 開発言語がGolangないしJava(ver 8以降)だとベター。
+- 開発言語がGolangないしKotlinだとベター。
 
 ## 理想とする現場
 
@@ -50,15 +50,14 @@
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2019/05月時点）
+## 家庭学習の状況（2019/07月時点）
 
 以下、写経、チュートリアル、検証実装を実施中。
 
-- GCPの各種プロダクト
-- Vue.js/Nuxt.js
-- Kubernetes on GKE
-- Clean Architecture
-- DDD(Domain Driven Design)
+- Kotlin/Spring Boot
+- Scala/play
+- Ruby/Ruby on Rails
+- Terraform
 
 ## スキル
 
