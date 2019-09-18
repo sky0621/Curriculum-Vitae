@@ -59,7 +59,6 @@
 - Kotlin/Spring Boot
 - Scala/play
 - Ruby/Ruby on Rails
-- Terraform
 
 ## スキル
 
@@ -134,7 +133,7 @@
 |---|-----|
 |*概要*|防災用のIoT機器に対してWeb上からAPI経由で指示を出したり状態を管理するサービス。|
 |*担当*|Backend(Go)側のプロトタイプ作成。Frontend(Vue/Nuxt.js)各機能の実装<br>- 認証認可<br>- お知らせ機能<br>- 各種バッチ関連<br>etc...|
-|*技術要素*|【Backend】<br>- Go: v1.11<br>- App Engine(Standard)[Go]<br>- Cloud Datastore<br>- Cloud SQL<br>- Bigtable<br>- Cloud Functions(Node.js/TypeScript)<br>- FirebaseAuth<br>【Frontend(SPA)】<br>- Vue.js: v2<br>- Nuxt.js: v2<br>- Vuex<br>- Vuetify<br>- Axios<br>- TypeScript|
+|*技術要素*|【Backend】<br>- Go: v1.11<br>- App Engine(Standard)[Go]<br>- Cloud Datastore<br>- Cloud SQL<br>- Bigtable<br>- Cloud Functions(Node.js/TypeScript)<br>- FirebaseAuth<br>【Frontend(SPA)】<br>- Vue.js: v2<br>- Nuxt.js: v2<br>- Vuex<br>- Vuetify<br>- Axios|
 
 ### ■ 2018/10 - 2018/11(前半): 購買分析基盤構築
 
