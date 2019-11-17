@@ -9,7 +9,7 @@
 |Sex|Man|
 |Location|埼玉県|
 |Education|宇都宮大学教育学部卒|
-|Job|フリーのソフトウェアエンジニア|
+|Job|フリーのソフトウェア開発者|
 |GitHub|https://github.com/sky0621/|
 |Qiita|https://qiita.com/sky0621|
 |Keyword|Golang, Java, GCP, AWS, MicroService, Scrum, EdTech|
@@ -35,7 +35,7 @@
 
 その後、現在はGCPに特化したソリューションを提供する現場にて各案件に着手。
 
-## 就労状況（2019/09月時点）
+## 就労状況（2019/11月時点）
 
 就労中。
 フリーとして参画できる案件であれば内容如何で話を聞きたい。
@@ -45,6 +45,8 @@
 - EdTechの案件だとベスト。
 - Scrum開発を行っているとベター。
 - 開発言語がGolangないしKotlinだとベター。
+- フロントエンド、バックエンド、インフラ各要素万遍なく関われる案件だとベター。
+- 都心の案件、ないし、リモートワーク可の案件だとベター。
 
 ## 理想とする現場
 
@@ -52,17 +54,25 @@
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2019/09月時点）
+## 家庭学習の状況（2019/11月時点）
 
 以下、写経、チュートリアル、検証実装を実施中。
 
-- Kotlin/Spring Boot
-- Scala/play
-- Ruby/Ruby on Rails
+- GraphQL
+- TypeScript
 
 ## スキル
 
 ### プログラミング言語
+
+#### 現在参画中（2019/10〜）の案件にて
+
+- Go（v1.12 -> 1.13）
+- Nuxt.js（JavaScript -> TypeScript）
+- GraphQL（lib: Apollo/gqlgen）
+- GCP（GKE、CloudSQL(Postgres)）
+
+#### 過去の案件にて
 
 - Java（v1.4～v7）を10年以上。 Java(v8)を4ヶ月。
 - PHP（v5）を2年ほど。
