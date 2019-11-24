@@ -13,7 +13,7 @@
 |GitHub|https://github.com/sky0621/|
 |Qiita|https://qiita.com/sky0621|
 |Keyword|Golang, Java, GCP, AWS, MicroService, Scrum, EdTech|
-|Qualification|[GOOGLE CLOUD CERTIFIED<br>Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer?hl=ja)|
+|Qualification|[GOOGLE CLOUD CERTIFIED<br>Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer?hl=ja)(2018/09/23)|
 
 ## サマリ
 
