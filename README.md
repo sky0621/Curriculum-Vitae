@@ -17,9 +17,9 @@
 
 ## サマリ
 
-主にJavaで構築するWebシステム（BtoBが多め）開発に10年以上関わる。その他、Golangを使ったシステム開発に2年以上。
+主にJavaで構築するWebシステム（BtoBが多め）開発に10年以上関わる。その他、Golangを使ったシステム開発に約3年。
 
-直近の数ヶ月は、Java8, Scala, Kotlinを少しずつ。
+直近の数ヶ月は、フロントエンドをVue.js/Nuxt.js/TypeScript、バックエンドをGolang、間をGraphQLでつなぐWebシステム開発に従事。
 
 システムのジャンルは、さまざま。
 
@@ -35,7 +35,7 @@
 
 その後、現在はGCPに特化したソリューションを提供する現場にて各案件に着手。
 
-## 就労状況（2019/11月時点）
+## 就労状況（2020/1月時点）
 
 就労中。
 フリーとして参画できる案件であれば内容如何で話を聞きたい。
@@ -44,7 +44,7 @@
 
 - EdTechの案件だとベスト。
 - Scrum開発を行っているとベター。
-- 開発言語がGolangないしKotlinだとベター。
+- 開発言語がGolangないしJVM系言語（Java、Kotlin、Scala等）だとベター。
 - フロントエンド、バックエンド、インフラ各要素万遍なく関われる案件だとベター。
 - 都心の案件、ないし、リモートワーク可の案件だとベター。
 
@@ -54,7 +54,7 @@
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2019/11月時点）
+## 家庭学習の状況（2020/1月時点）
 
 以下、写経、チュートリアル、検証実装を実施中。
 
@@ -69,23 +69,24 @@
 
 - Go（v1.12 -> 1.13）
 - Nuxt.js（JavaScript -> TypeScript）
-- GraphQL（lib: Apollo/gqlgen）
+- GraphQL（ライブラリ: Apollo/gqlgen）
 - GCP（GKE、CloudSQL(Postgres)）
 
 #### 過去の案件にて
 
-- Java（v1.4～v7）を10年以上。 Java(v8)を4ヶ月。
-- PHP（v5）を2年ほど。
-- Golang（v1.7、v1.9）を2年弱。Golang（v1.11）を6ヶ月。
-- JavaScriptはJavaやPHPの開発で並行してjQueryを使用。2018/12から、業務でVue.js（Nuxt.js）を使用。
-- その他、C++、Python2、等を数ヶ月ずつ。
+- Java：v1.4～v7 を10年以上。 v8 を約半年。
+- PHP：v5 を2年ほど。
+- Golang：v1.7、v1.9 を2年弱。v1.11 を6ヶ月。
+- JavaScript：JavaやPHPの開発で並行してjQueryを使用。
+- その他、C++、Python、Scala、Kotlin 等を1〜数ヶ月ずつ。
 
 ### フレームワーク
 
 - Java：Struts、Seasar2, Spring
 - Scala：Play
+- Kotlin：Spring Boot
 - PHP：Kohana
-- Golang：Echo
+- Golang：Echo、Chi
 - Vue.js：Nuxt.js
 
 ### データベース
@@ -119,7 +120,21 @@
 
 ---
 
-## 某企業にて、２０１９年６月より現在まで就労中
+## 某企業にて、２０１９年１０月より現在まで就労中
+
+---
+
+### ■ 2019/10 〜 : 広告系Webシステム新規開発
+
+|name|content|
+|---|-----|
+|*概要*|-|
+|*担当*|-|
+|*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13<br>- gqlgen<br>【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>|
+
+---
+
+## 某企業にて、２０１９年６月より９月まで４ヶ月就労
 
 ---
 
@@ -137,7 +152,7 @@
 
 ---
 
-### ■ 2018/11(後半) - 2019/05: 防災用IoT機器管理Webシステム構築
+### ■ 2018/11(後半) - 2019/05: 防災用IoT機器管理Webシステム新規開発
 
 |name|content|
 |---|-----|
@@ -145,7 +160,7 @@
 |*担当*|Backend(Go)側のプロトタイプ作成。Frontend(Vue/Nuxt.js)各機能の実装<br>- 認証認可<br>- お知らせ機能<br>- 各種バッチ関連<br>etc...|
 |*技術要素*|【Backend】<br>- Go: v1.11<br>- App Engine(Standard)[Go]<br>- Cloud Datastore<br>- Cloud SQL<br>- Bigtable<br>- Cloud Functions(Node.js/TypeScript)<br>- FirebaseAuth<br>【Frontend(SPA)】<br>- Vue.js: v2<br>- Nuxt.js: v2<br>- Vuex<br>- Vuetify<br>- Axios|
 
-### ■ 2018/10 - 2018/11(前半): 購買分析基盤構築
+### ■ 2018/10 - 2018/11(前半): 購買分析基盤新規開発
 
 |name|content|
 |---|-----|
@@ -153,7 +168,7 @@
 |*担当*|Backend(Java)の分析APIのベース部分の実装。（期間限定のサポート要員として参画）|
 |*技術要素*|- Java: v1.8<br>- App Engine(Standard)[Java]<br>- Cloud Datastore<br>- BigQuery|
 
-### ■ 2018/08 - 2018/09: 手書き帳票の識字Webシステム構築
+### ■ 2018/08 - 2018/09: 手書き帳票の識字Webシステム新規開発
 
 |name|content|
 |---|-----|
