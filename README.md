@@ -31,9 +31,9 @@
 
 また、Javaで「教育」系Webシステム開発時に１年ほどScrumを経験。
 
-ここ数年間のうち、２年弱はGolangでPubSubメッセージングシステム開発に着手。（AWS及びGCPを経験）
+ここ数年間のうち、２年以上はGolangでPubSubメッセージングシステム開発やWebAPI開発に着手。（AWS及びGCPを経験）
 
-## 就労状況（2020/1月時点）
+## 就労状況（2020/5月時点）
 
 就労中。
 フリーとして参画できる案件であれば内容如何で話を聞きたい。
@@ -52,7 +52,7 @@
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2020/1月時点）
+## 家庭学習の状況（2020/5月時点）
 
 以下、写経、チュートリアル、検証実装を実施中。
 
@@ -68,7 +68,7 @@
 - Go（v1.12 -> 1.13）
 - Nuxt.js（JavaScript -> TypeScript）
 - GraphQL（ライブラリ: Apollo/gqlgen）
-- GCP（GKE、CloudSQL(Postgres)）
+- GCP（GKE、CloudSQL(Postgres)、GCS、Pub/Sub）
 
 #### 過去の案件にて
 
@@ -96,19 +96,20 @@
 ### OS
 
 - Windows：人並み。
-- Mac：過去、半年ほど開発端末として使用。現在参画中の案件でも使用中。
-- Linux：Golang案件では、開発端末にも用いる。エディタはVi派。極力、コマンド使う派。
+- Mac：過去、半年ほど開発端末として使用。現在参画中の案件でも使用。
+- Linux：Golang案件では、開発端末にも用いる。エディタはVi派。極力、コマンド使う派。現在参画中の案件でUbuntuを開発端末として使用中。
 
 ### クラウド
 
 - AWS：1年半（EC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等）
-- GCP：1年（GAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、Cloud Functions(Node.js[TypeScript])、FirebaseAuth）
+- GCP：2年（GAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、Cloud Functions(Node.js[TypeScript])、FirebaseAuth）
 
 ### その他
 
 - Scrum開発を１年弱（最初のチームビルディングから参加）。
 - MicroService（サービス間をREST/gRPCで接続）を意識した開発を２年弱。
 - Dockerに半年、Kubernetesには数ヶ月ほど触れる。
+- Auth0使用中。
 
 ## やったことはないが興味があるもの
 
@@ -128,7 +129,7 @@
 |---|-----|
 |*概要*|-|
 |*担当*|-|
-|*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13<br>- gqlgen<br>【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>|
+|*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13<br>- gqlgen<br>- chi<br>- SQLBoiler<br>- Wire【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>- Pub/Sub【その他】<br>- GraphQL<br>- Auth0|
 
 ---
 
