@@ -129,7 +129,7 @@
 |---|-----|
 |*概要*|-|
 |*担当*|-|
-|*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13<br>- gqlgen<br>- chi<br>- SQLBoiler<br>- Wire【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>- Pub/Sub<br>【その他】<br>- GraphQL<br>- Auth0|
+|*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13<br>- gqlgen<br>- chi<br>- SQLBoiler<br>- Wire<br>【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>- Pub/Sub<br>【その他】<br>- GraphQL<br>- Auth0|
 
 ---
 
