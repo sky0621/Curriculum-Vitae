@@ -131,7 +131,7 @@ GraphQLを使う案件に１年弱ほど関わり中。
 |name|content|
 |---|-----|
 |*概要*|-|
-|*担当*|-|
+|*担当*|機能開発・品質強化を機能、技術スタック、得意フェーズ問わず全般的に担当|
 |*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13/v1.14<br>- gqlgen<br>- chi<br>- SQLBoiler<br>- Wire<br>【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>- Pub/Sub<br>- Cloud Functions<br>- Cloud Run<br>【その他】<br>- GraphQL<br>- Auth0|
 
 ---
