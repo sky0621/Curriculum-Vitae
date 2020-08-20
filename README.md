@@ -33,7 +33,9 @@
 
 ここ数年間のうち、２年以上はGolangでPubSubメッセージングシステム開発やWebAPI開発に着手。（AWS及びGCPを経験）
 
-## 就労状況（2020/5月時点）
+GraphQLを使う案件に１年弱ほど関わり中。
+
+## 就労状況（2020/8月時点）
 
 就労中。
 フリーとして参画できる案件であれば内容如何で話を聞きたい。
@@ -52,12 +54,13 @@
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2020/5月時点）
+## 家庭学習の状況（2020/8月時点）
 
 以下、写経、チュートリアル、検証実装を実施中。
 
 - GraphQL
 - TypeScript
+- Rust
 
 ## スキル
 
@@ -65,10 +68,10 @@
 
 #### 現在参画中（2019/10〜）の案件にて
 
-- Go（v1.12 -> 1.13）
+- Go（v1.12 -> 1.13 -> 1.14）
 - Nuxt.js（JavaScript -> TypeScript）
 - GraphQL（ライブラリ: Apollo/gqlgen）
-- GCP（GKE、CloudSQL(Postgres)、GCS、Pub/Sub）
+- GCP（GKE、CloudSQL(Postgres)、GCS、Pub/Sub、Cloud Run、Cloud Functions）
 
 #### 過去の案件にて
 
@@ -102,7 +105,7 @@
 ### クラウド
 
 - AWS：1年半（EC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等）
-- GCP：2年（GAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、Cloud Functions(Node.js[TypeScript])、FirebaseAuth）
+- GCP：3年（GAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、Cloud Functions(Node.js[TypeScript]、Python)、FirebaseAuth、Cloud Run）
 
 ### その他
 
@@ -129,7 +132,7 @@
 |---|-----|
 |*概要*|-|
 |*担当*|-|
-|*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13<br>- gqlgen<br>- chi<br>- SQLBoiler<br>- Wire<br>【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>- Pub/Sub<br>【その他】<br>- GraphQL<br>- Auth0|
+|*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13/v1.14<br>- gqlgen<br>- chi<br>- SQLBoiler<br>- Wire<br>【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>- Pub/Sub<br>- Cloud Functions<br>- Cloud Run<br>【その他】<br>- GraphQL<br>- Auth0|
 
 ---
 
