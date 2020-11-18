@@ -9,7 +9,7 @@
 |Sex|Man|
 |Location|埼玉県|
 |Education|宇都宮大学教育学部卒|
-|Job|フリーのソフトウェア開発者|
+|Job|ソフトウェア開発者（フリー）|
 |GitHub|https://github.com/sky0621/|
 |Qiita|https://qiita.com/sky0621|
 |Keyword|Golang, Java, GCP, AWS, MicroService, Scrum, EdTech|
@@ -31,11 +31,11 @@
 
 また、Javaで「教育」系Webシステム開発時に１年ほどScrumを経験。
 
-ここ数年間のうち、２年以上はGolangでPubSubメッセージングシステム開発やWebAPI開発に着手。（AWS及びGCPを経験）
+ここ数年間のうち、３年以上はGolangでPubSubメッセージングシステム開発やWebAPI開発に着手。（AWS及びGCPを経験）
 
-GraphQLを使う案件に１年弱ほど関わり中。
+GraphQLを使う案件に１年ほど関わり中。
 
-## 就労状況（2020/9月時点）
+## 就労状況（2020/11月時点）
 
 就労中。
 フリーとして参画できる案件であれば内容如何で話を聞きたい。
@@ -44,9 +44,9 @@ GraphQLを使う案件に１年弱ほど関わり中。
 
 - EdTechの案件だとベスト。
 - Scrum開発を行っているとベター。
-- 開発言語がGolangないしJVM系言語（Java、Kotlin、Scala等）だとベター。
+- 開発言語がGolangないしJVM系言語（Java、Kotlin、Scala等）だとベター。（未経験可ならRustも）
 - フロントエンド、バックエンド、インフラ各要素万遍なく関われる案件だとベター。
-- 都心の案件、ないし、リモートワーク可の案件だとベター。
+- リモートワーク可の案件だとベター。
 
 ## 理想とする現場
 
@@ -54,7 +54,7 @@ GraphQLを使う案件に１年弱ほど関わり中。
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2020/9月時点）
+## 家庭学習の状況（2020/11月時点）
 
 以下、写経、チュートリアル、検証実装を実施中。
 
@@ -71,7 +71,7 @@ GraphQLを使う案件に１年弱ほど関わり中。
 - Go（v1.12 -> 1.13 -> 1.14）
 - Nuxt.js（JavaScript -> TypeScript）
 - GraphQL（ライブラリ: Apollo/gqlgen）
-- GCP（GKE、CloudSQL(Postgres)、GCS、Pub/Sub、Cloud Run、Cloud Functions）
+- GCP（GKE、CloudSQL(Postgres)、GCS、Pub/Sub、Cloud Run、Cloud Functions、Firestore）
 
 #### 過去の案件にて
 
@@ -105,7 +105,7 @@ GraphQLを使う案件に１年弱ほど関わり中。
 ### クラウド
 
 - AWS：1年半（EC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等）
-- GCP：3年（GAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、Cloud Functions(Node.js[TypeScript]、Python)、FirebaseAuth、Cloud Run）
+- GCP：3年（GAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、Cloud Functions(Node.js[TypeScript]、Python)、FirebaseAuth、Cloud Run、Firestore(ネイティブモード)）
 
 ### その他
 
@@ -132,7 +132,7 @@ GraphQLを使う案件に１年弱ほど関わり中。
 |---|-----|
 |*概要*|-|
 |*担当*|機能開発・品質強化を機能、技術スタック、得意フェーズ問わず全般的に担当|
-|*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13/v1.14<br>- gqlgen<br>- chi<br>- SQLBoiler<br>- Wire<br>【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>- Pub/Sub<br>- Cloud Functions<br>- Cloud Run<br>【その他】<br>- GraphQL<br>- Auth0<br>- SendGrid|
+|*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13/v1.14<br>- gqlgen<br>- chi<br>- SQLBoiler<br>- Wire<br>【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>- Pub/Sub<br>- Cloud Functions<br>- Cloud Run<br>- Firestore(ネイティブモード)<br>【その他】<br>- GraphQL<br>- Auth0<br>- SendGrid|
 
 ---
 
