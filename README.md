@@ -102,13 +102,13 @@
 ### クラウド
 
 - AWS：1年半（EC2、S3、Cloud Front、SQS、RDS、DynamoDB、RedShift、ElastiCache、ECR等）
-- GCP：3年（GAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、Cloud Functions(Node.js[TypeScript]、Python)、FirebaseAuth、Cloud Run、Firestore(ネイティブモード)）
+- GCP：2017年〜（GAE(Java8/Go1.11[ともにstandard])、GKE、Cloud Pub/Sub、Cloud SQL、Cloud Datastore、BigQuery、Bigtable、Cloud Endpoints、GCR、Cloud Functions(Node.js[TypeScript]、Python)、FirebaseAuth、Cloud Run、Firestore(Native mode)）
 
 ### その他
 
 - Scrum開発を１年弱（最初のチームビルディングから参加）。
 - MicroService（サービス間をREST/gRPCで接続）を意識した開発を２年弱。
-- 2016年以降は、Docker、Kubernetesありきの開発が多い。
+- 2017年以降、Docker、Kubernetesありきの開発が多い。
 - Auth0使用中。
 - 好きなIDEはGoLand、IntelliJ、WebStorm。（JetBrains好き）
 
