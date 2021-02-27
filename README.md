@@ -78,7 +78,7 @@
 - JavaScript：JavaやPHPの開発で並行してjQueryを使用。
 - その他、C++、Python、Scala、Kotlin 等を1〜数ヶ月ずつ。
 
-### フレームワーク
+### Webアプリケーションフレームワーク
 
 - Java：Struts、Seasar2, Spring
 - Scala：Play
@@ -108,8 +108,9 @@
 
 - Scrum開発を１年弱（最初のチームビルディングから参加）。
 - MicroService（サービス間をREST/gRPCで接続）を意識した開発を２年弱。
-- Dockerに半年、Kubernetesには数ヶ月ほど触れる。
+- 2016年以降は、Docker、Kubernetesありきの開発が多い。
 - Auth0使用中。
+- 好きなIDEはGoLand、IntelliJ、WebStorm。（JetBrains好き）
 
 ## やったことはないが興味があるもの
 
@@ -129,7 +130,7 @@
 |---|-----|
 |*概要*|-|
 |*担当*|機能開発・品質強化を機能、技術スタック、得意フェーズ問わず全般的に担当|
-|*技術要素*|【Frontend(SSR)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13/v1.14<br>- gqlgen<br>- chi<br>- SQLBoiler<br>- Wire<br>【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>- Pub/Sub<br>- Cloud Functions<br>- Cloud Run<br>- Firestore(ネイティブモード)<br>【その他】<br>- GraphQL<br>- Auth0<br>- SendGrid|
+|*技術要素*|【Frontend(SSR, SPA)】<br>- TypeScript<br>- Vue.js<br>- Nuxt.js<br>- Vuetify<br>- Apollo<br>【Backend】<br>- Go: v1.13/v1.14/v1.15<br>- gqlgen<br>- chi<br>- SQLBoiler<br>- Wire<br>【Infra(GCP)】<br>- GKE<br>- Cloud SQL(PostgreSQL)<br>- Cloud Storage<br>- Cloud Pub/Sub<br>- Cloud Functions<br>- Cloud Run<br>- Firestore(Native mode)<br>- Cloud Build<br>【その他】<br>- GraphQL<br>- Auth0<br>- SendGrid|
 
 ---
 
