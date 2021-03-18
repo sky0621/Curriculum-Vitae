@@ -12,6 +12,10 @@
 |Keyword|Golang, Java, GCP, AWS, MicroService, Scrum, EdTech|
 |Qualification|[GOOGLE CLOUD CERTIFIED<br>Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer?hl=ja)(2018/09/23)|
 
+## Mind Map
+
+![sky0621](https://user-images.githubusercontent.com/15807041/111661968-d9efcf80-8852-11eb-959c-1e059227956c.png)
+
 ## サマリ
 
 2002年より、主にJavaで構築するWebシステム（BtoBが多め）開発に従事。
@@ -30,7 +34,7 @@
 
 また、Javaで「教育」系Webシステム開発時に１年ほどScrumを経験。
 
-## 就労状況（2021/02月時点）
+## 就労状況（2021/03月時点）
 
 就労中。
 フリーとして参画できる案件であれば内容次第で話を聞きたい。
@@ -49,7 +53,7 @@
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2021/02月時点）
+## 家庭学習の状況（2021/03月時点）
 
 以下、写経、チュートリアル、検証実装を実施中。
 
