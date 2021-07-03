@@ -53,7 +53,7 @@
 - 新しい技術にチャレンジする。
 - 負債と向き合い、改善を求める。
 
-## 家庭学習の状況（2021/03月時点）
+## 家庭学習の状況（2021/07月時点）
 
 以下、写経、チュートリアル、検証実装を実施中。
 
@@ -61,7 +61,6 @@
 - TypeScript
 - GCP
 - Rust
-- Flutter
 
 ## スキル
 
@@ -70,7 +69,7 @@
 #### 現在参画中（2019/10〜）の案件にて
 
 - Go（v1.12 -> 1.13 -> 1.14 -> 1.15）
-- Nuxt.js（JavaScript -> TypeScript）
+- Nuxt.js（TypeScript）
 - GraphQL（ライブラリ: Apollo/gqlgen）
 - GCP（GKE、CloudSQL(Postgres)、GCS、Pub/Sub、Cloud Run、Cloud Functions、Firestore）
 

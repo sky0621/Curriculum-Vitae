@@ -37,14 +37,5 @@ success Installed "@vitejs/create-app@2.4.4" with binaries:
       - cva
 ✔ Select a framework: › vue
 ✔ Select a variant: › vue-ts
-
-Scaffolding project in /home/sky0621/work/src/github.com/sky0621/Curriculum-Vitae/cv...
-
-Done. Now run:
-
-  cd cv
-  yarn
-  yarn dev
-
-Done in 33.53s.
+    ...
 ```
