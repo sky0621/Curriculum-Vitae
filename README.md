@@ -59,8 +59,7 @@
 
 - GraphQL
 - TypeScript
-- GCP
-- Rust
+- Vue3
 
 ## スキル
 
