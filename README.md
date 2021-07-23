@@ -1,5 +1,9 @@
 # 職務経歴書
 
+## Note
+
+GitHub Pages にて [新CVサイト](https://sky0621.github.io/cv/) 構築中。
+
 ## 基本情報
 
 |key|value|
