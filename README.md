@@ -63,8 +63,7 @@ GitHub Pages にて [新CVサイト](https://sky0621.github.io/cv/) 構築中。
 
 - GraphQL
 - TypeScript
-- GCP
-- Rust
+- Vue3
 
 ## スキル
 
